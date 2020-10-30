@@ -4,7 +4,7 @@ namespace Snow
 {
 	Application::Application()
 	{
-
+		
 	}
 
 	Application::~Application()
