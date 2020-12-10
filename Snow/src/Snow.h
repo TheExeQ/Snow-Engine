@@ -2,9 +2,9 @@
 
 // FOR USE BY SNOW APPS
 
-#include "Snow/Application.h"
-#include "Snow/Log.h"
+#include "Snow/Core/Application.h"
+#include "Snow/Core/Log.h"
 
 // ---Entry Point---
-#include "Snow/EntryPoint.h"
+#include "Snow/Core/EntryPoint.h"
 // -----------------
