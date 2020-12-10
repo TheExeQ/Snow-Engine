@@ -5,7 +5,7 @@ class Sandbox : public Snow::Application
 public:
 	Sandbox()
 	{
-
+		Snow::Application::Run();
 	}
 
 	~Sandbox()
